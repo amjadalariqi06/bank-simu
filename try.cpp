@@ -10,8 +10,9 @@ cout<<"test 1"<<endl;
 int main()
 {
 	cout<<"hii"<<endl;
+	cout<<"ss"<<endl;
 	
 	
-	test();
+	test();	
 	return 0;
 }
